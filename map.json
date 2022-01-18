@@ -9482,38 +9482,6 @@
                         }]
                 }, 
                 {
-                 "id":912,
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":913,
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":914,
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":924,
                  "objectgroup":
                     {
@@ -9569,18 +9537,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":929,
@@ -9606,18 +9563,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":930,
@@ -9649,18 +9595,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":931,
