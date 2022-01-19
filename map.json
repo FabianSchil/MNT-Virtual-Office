@@ -302,6 +302,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -334,6 +339,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -365,6 +375,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -408,6 +423,11 @@
                              "id":2,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -518,6 +538,102 @@
                         }]
                 }, 
                 {
+                 "id":35,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":5,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":19,
+                             "x":0,
+                             "y":27
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }, 
+                {
+                 "id":36,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":5,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":27
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }, 
+                {
+                 "id":37,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":5,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":19,
+                             "x":13,
+                             "y":27
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }, 
+                {
                  "id":43,
                  "objectgroup":
                     {
@@ -529,6 +645,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -541,13 +663,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":51,
@@ -633,6 +749,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -670,6 +792,12 @@
                              "height":16,
                              "id":2,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -707,6 +835,12 @@
                              "height":16,
                              "id":2,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -733,6 +867,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -745,13 +885,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":84,
@@ -850,6 +984,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -903,6 +1042,11 @@
                              "id":3,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -1023,6 +1167,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -1076,6 +1225,11 @@
                              "id":16,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -1183,7 +1337,7 @@
                              "name":"",
                              "properties":[
                                     {
-                                     "name":"collides",
+                                     "name":"collidable",
                                      "type":"bool",
                                      "value":true
                                     }],
@@ -1226,7 +1380,7 @@
                              "name":"",
                              "properties":[
                                     {
-                                     "name":"collides",
+                                     "name":"collidable",
                                      "type":"bool",
                                      "value":true
                                     }],
@@ -1330,7 +1484,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1362,7 +1515,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1394,7 +1546,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1426,7 +1577,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1458,7 +1608,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1497,6 +1646,12 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1523,6 +1678,12 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1549,6 +1710,12 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1575,6 +1742,12 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1601,10 +1774,80 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
                              "width":27,
+                             "x":0,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }, 
+                {
+                 "id":309,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":28,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":22,
+                             "x":10,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }, 
+                {
+                 "id":310,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":28,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":23,
                              "x":0,
                              "y":0
                             }],
@@ -1773,6 +2016,12 @@
                              "height":26,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1805,6 +2054,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1837,6 +2092,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1869,6 +2130,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -1901,6 +2168,12 @@
                              "height":26,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2010,7 +2283,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -2043,6 +2315,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2075,6 +2353,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2100,7 +2384,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -2280,6 +2563,12 @@
                              "height":26,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2312,6 +2601,12 @@
                              "height":27,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2344,6 +2639,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2376,6 +2677,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2408,6 +2715,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2440,6 +2753,12 @@
                              "height":27,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2472,6 +2791,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2484,13 +2809,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":441,
@@ -2513,6 +2832,12 @@
                              "height":26,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2545,6 +2870,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2577,6 +2908,12 @@
                              "height":26,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2609,6 +2946,12 @@
                              "height":26,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2647,6 +2990,17 @@
                              "width":32,
                              "x":0,
                              "y":6
+                            }, 
+                            {
+                             "height":26,
+                             "id":2,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":6
                             }],
                      "opacity":1,
                      "type":"objectgroup",
@@ -2673,6 +3027,12 @@
                              "height":27,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2777,6 +3137,12 @@
                              "height":21,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2789,13 +3155,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":537,
@@ -2809,6 +3169,12 @@
                              "height":6,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2835,6 +3201,12 @@
                              "height":15,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2915,6 +3287,12 @@
                              "height":27,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2927,13 +3305,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":566,
@@ -2947,6 +3319,12 @@
                              "height":25,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2959,13 +3337,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":570,
@@ -2979,6 +3351,12 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -3005,6 +3383,12 @@
                              "height":10,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -3157,7 +3541,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3242,7 +3625,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3290,7 +3672,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3369,7 +3750,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3406,7 +3786,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3443,7 +3822,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3475,7 +3853,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3507,7 +3884,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3553,7 +3929,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3604,7 +3979,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3655,7 +4029,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3687,7 +4060,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3724,7 +4096,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3789,7 +4160,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3826,7 +4196,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3863,7 +4232,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3928,7 +4296,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -3960,7 +4327,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4001,6 +4367,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4032,6 +4403,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -4065,6 +4441,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4096,6 +4477,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -4129,6 +4515,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4152,7 +4543,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4184,7 +4574,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4216,7 +4605,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4248,7 +4636,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4291,7 +4678,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4332,6 +4718,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4364,6 +4755,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4387,7 +4783,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4419,7 +4814,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4451,7 +4845,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4497,7 +4890,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4523,7 +4915,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4549,7 +4940,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4590,6 +4980,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4621,6 +5016,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -4654,6 +5054,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4686,6 +5091,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4709,7 +5119,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4741,7 +5150,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4773,7 +5181,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4799,7 +5206,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4831,7 +5237,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4872,6 +5277,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4903,6 +5313,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -4936,6 +5351,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -4959,7 +5379,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -4985,7 +5404,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5020,6 +5438,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5051,6 +5474,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -5084,6 +5512,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5115,6 +5548,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -5148,6 +5586,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5178,6 +5621,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -5210,6 +5659,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -5244,6 +5699,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5276,6 +5736,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5306,6 +5771,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -5332,6 +5803,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -5359,6 +5836,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -5392,6 +5874,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5422,6 +5909,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -5454,6 +5947,12 @@
                              "height":32,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -5479,7 +5978,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5511,7 +6009,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5543,7 +6040,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5569,7 +6065,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5610,6 +6105,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5642,6 +6142,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5665,7 +6170,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5697,7 +6201,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5729,7 +6232,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5761,7 +6263,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -5802,6 +6303,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -5833,6 +6339,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -5902,7 +6413,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6003,7 +6513,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6035,7 +6544,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6067,7 +6575,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6099,7 +6606,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6131,7 +6637,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6163,7 +6668,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6204,6 +6708,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6236,6 +6745,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6259,7 +6773,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6296,7 +6809,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6333,7 +6845,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6370,7 +6881,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6434,6 +6944,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6465,6 +6980,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -6516,6 +7036,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6548,6 +7073,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6571,7 +7101,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6608,7 +7137,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6645,7 +7173,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6691,6 +7218,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6723,6 +7255,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6754,6 +7291,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -6796,6 +7338,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6827,6 +7374,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -6860,6 +7412,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -6883,7 +7440,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6926,7 +7482,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -6969,7 +7524,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7012,7 +7566,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7038,7 +7591,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7064,7 +7616,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7090,7 +7641,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7127,7 +7677,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7164,7 +7713,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7232,7 +7780,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7258,7 +7805,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7290,7 +7836,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7316,7 +7861,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7348,7 +7892,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7380,7 +7923,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7548,15 +8090,21 @@
                      "name":"",
                      "objects":[
                             {
-                             "height":32,
+                             "height":12,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
-                             "width":18,
-                             "x":14,
-                             "y":0
+                             "width":10,
+                             "x":22,
+                             "y":20
                             }],
                      "opacity":1,
                      "type":"objectgroup",
@@ -7576,7 +8124,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7605,12 +8152,40 @@
                 }, 
                 {
                  "id":732,
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }]
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":8,
+                             "id":1,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
+                                     "name":"collides",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":16,
+                             "x":8,
+                             "y":24
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
                 }, 
                 {
                  "id":733,
@@ -7625,6 +8200,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -7657,6 +8237,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -7744,7 +8329,7 @@
                              "name":"",
                              "properties":[
                                     {
-                                     "name":"collides",
+                                     "name":"collidable",
                                      "type":"bool",
                                      "value":true
                                     }],
@@ -7776,7 +8361,7 @@
                              "name":"",
                              "properties":[
                                     {
-                                     "name":"collides",
+                                     "name":"collidable",
                                      "type":"bool",
                                      "value":true
                                     }],
@@ -7808,7 +8393,7 @@
                              "name":"",
                              "properties":[
                                     {
-                                     "name":"collides",
+                                     "name":"collidable",
                                      "type":"bool",
                                      "value":true
                                     }],
@@ -7921,7 +8506,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7959,7 +8543,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -7996,7 +8579,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8039,7 +8621,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8082,7 +8663,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8125,7 +8705,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8235,7 +8814,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8273,7 +8851,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8311,7 +8888,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8349,7 +8925,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8387,7 +8962,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8425,7 +8999,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8567,6 +9140,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -8610,6 +9188,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -8644,7 +9227,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8687,7 +9269,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8730,7 +9311,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8809,7 +9389,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8919,7 +9498,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8951,7 +9529,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -8983,7 +9560,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9009,7 +9585,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9080,7 +9655,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9117,7 +9691,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9154,7 +9727,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9191,7 +9763,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9286,6 +9857,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9298,18 +9875,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":900,
@@ -9323,6 +9889,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9335,18 +9907,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":901,
@@ -9360,6 +9921,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9372,18 +9939,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":902,
@@ -9397,6 +9953,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9409,18 +9971,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":907,
@@ -9436,7 +9987,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9486,7 +10036,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9525,6 +10074,12 @@
                              "height":18,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9551,6 +10106,12 @@
                              "height":18,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9578,6 +10139,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -9638,7 +10204,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -9837,6 +10402,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -9853,18 +10423,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":964,
@@ -9878,6 +10437,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9890,18 +10455,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":965,
@@ -9915,6 +10469,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9927,18 +10487,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":966,
@@ -9952,6 +10501,12 @@
                              "height":20,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -9964,18 +10519,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collidable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":992,
@@ -10000,7 +10544,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10026,7 +10569,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10052,7 +10594,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10096,7 +10637,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10122,7 +10662,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10148,7 +10687,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10182,6 +10720,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -10225,6 +10768,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -10353,6 +10901,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -10385,6 +10938,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -10415,6 +10973,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10447,6 +11011,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10479,6 +11049,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10511,6 +11087,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10543,6 +11125,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10575,6 +11163,12 @@
                              "height":16,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10607,6 +11201,12 @@
                              "height":22,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10644,6 +11244,12 @@
                              "height":22,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10681,6 +11287,12 @@
                              "height":22,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10718,6 +11330,12 @@
                              "height":22,
                              "id":1,
                              "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -10745,6 +11363,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -10778,6 +11401,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -10801,7 +11429,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10838,7 +11465,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -10886,7 +11512,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11027,6 +11652,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11064,6 +11694,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -11103,6 +11738,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11140,6 +11780,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -11179,6 +11824,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11217,6 +11867,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11246,7 +11901,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11272,7 +11926,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11298,7 +11951,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11333,6 +11985,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11364,6 +12021,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -11397,6 +12059,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11428,6 +12095,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -11461,6 +12133,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11492,6 +12169,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -11525,6 +12207,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -11556,6 +12243,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -11668,7 +12360,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11700,7 +12391,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11732,7 +12422,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11758,7 +12447,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11784,7 +12472,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11810,7 +12497,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -11864,7 +12550,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12069,7 +12754,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12106,7 +12790,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12157,7 +12840,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12183,7 +12865,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12209,7 +12890,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12235,7 +12915,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12297,6 +12976,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -12377,7 +13061,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12403,7 +13086,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12452,6 +13134,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -12484,6 +13171,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -12507,7 +13199,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12533,7 +13224,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12567,6 +13257,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -12656,6 +13351,11 @@
                              "name":"",
                              "properties":[
                                     {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
+                                    {
                                      "name":"collides",
                                      "type":"bool",
                                      "value":true
@@ -12687,6 +13387,11 @@
                              "id":1,
                              "name":"",
                              "properties":[
+                                    {
+                                     "name":"collidable",
+                                     "type":"bool",
+                                     "value":true
+                                    }, 
                                     {
                                      "name":"collides",
                                      "type":"bool",
@@ -12739,7 +13444,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12765,7 +13469,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12791,7 +13494,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -12817,7 +13519,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
